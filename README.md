@@ -5,6 +5,8 @@ So, in this project, I have used Tensorflow to build a neural network to classif
 The labeled dataset that we have used in this project is the German Traffic Sign Recognition Benchmark (GTSRB). The GTSRB is a dataset of over 21,000 images of traffic signs, each with a unique label. The benchmark was created by the German Traffic Sign Recognition Society (VOC) and the German Traffic Sign Recognition Benchmark (GTSRB) is a subset of the VOC dataset.</p>
 <p>Moving towards the end of the project, you can see that we have achieved an efficiency of around <b>97.6%</b> which might vary each time you train your model.</p>
 <p>Inspired from CS50AI.</p>
+
+<p>You can acces the dataset from https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip, <b>NOTE:</b> Dataset is will be downloaded in a folder called gtsrb.zip. You have to unzip the folder and move the folder "gtsrb" to the directory where you have traffic.py file.</p>
 <p></p>
 <h2>OUTPUT</h2>
 <p>Your output should be similar to that as shown below except a few things like GPU Information, etc.</p>

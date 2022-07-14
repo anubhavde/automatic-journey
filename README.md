@@ -13,8 +13,7 @@ You can acces the dataset from https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.z
 #### **OUTPUT**
 Your output should be similar to that as shown below except a few things like GPU Information, etc.
 ```console
-(rapids-22.02) ┌──(arch㉿hpenvylaptop15ep0xxx)-[~/Workspace/road_sign_classification]
-└─$ <git:(master*)> python traffic.py gtsrb
+$ python traffic.py gtsrb
 2022-03-19 19:51:15.651803: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
 2022-03-19 19:51:18.662275: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
 2022-03-19 19:51:20.298455: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
